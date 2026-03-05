@@ -1,0 +1,37 @@
+.portfolio{
+    text-align:center;
+    font-family:Arial;
+}
+
+.hero{
+    background:#0f172a;
+    color:white;
+    padding:80px;
+}
+
+.about{
+    padding:50px;
+    background:#1e293b;
+    color:white;
+}
+
+.projects{
+    padding:50px;
+    background:#0f172a;
+    color:white;
+}
+
+.project-card{
+    background:#1e293b;
+    margin:20px;
+    padding:20px;
+    border-radius:10px;
+    display:inline-block;
+    width:250px;
+}
+
+.contact{
+    padding:50px;
+    background:#020617;
+    color:white;
+}
